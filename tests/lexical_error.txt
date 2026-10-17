@@ -1,0 +1,4 @@
+int 1s = 10;
+int $s = 6;
+float a = 3..5;
+int b = 2x;

@@ -1,0 +1,8 @@
+int i, j;
+char c, index, block;
+float f;
+i = 0;
+i = i + k;
+f = f + i;
+c = 'x';
+block = c;
